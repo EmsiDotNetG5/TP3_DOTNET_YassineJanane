@@ -1,0 +1,2 @@
+Bonjour EMSI !
+Ce fichier est cree avec StreamWriter

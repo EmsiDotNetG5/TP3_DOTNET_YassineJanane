@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\bin\Debug\net8.0\gestion_memoire.exe
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\bin\Debug\net8.0\gestion_memoire.deps.json
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\bin\Debug\net8.0\gestion_memoire.runtimeconfig.json
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\bin\Debug\net8.0\gestion_memoire.dll
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\bin\Debug\net8.0\gestion_memoire.pdb
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.dll
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\refint\gestion_memoire.dll
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.pdb
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\gestion_memoire.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\work st\gestion_memoire\gestion_memoire\obj\Debug\net8.0\ref\gestion_memoire.dll
